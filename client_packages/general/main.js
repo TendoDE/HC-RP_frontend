@@ -1,0 +1,1 @@
+mp.discord.update('Spielt auf HC-RP.de [ALPHA]', 'Coming soon...');
