@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@ragempcommunity/types-client": "^2.1.6"
+    "@ragempcommunity/types-client": "^2.1.6",
+    "@types/ragemp-c": "https://github.com/CocaColaBear/types-ragemp-c/tarball/master"
   }
 }
